@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "todo-app-react-native",
-    "slug": "todo-app-react-native",
+    "name": "client",
+    "slug": "client",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
